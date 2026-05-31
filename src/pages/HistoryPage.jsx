@@ -1,7 +1,7 @@
 // src/pages/HistoryPage.jsx
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/SideBar";
 import FloatingBlobs from "../components/FloatingBlobs";
 
 const BADGE = {
