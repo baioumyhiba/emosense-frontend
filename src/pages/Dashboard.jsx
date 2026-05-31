@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { useAuth } from "../context/AuthContext";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/SideBar";
 import UploadZone from "../components/UploadZone";
 import EmotionResult from "../components/EmotionResult";
 import FloatingBlobs from "../components/FloatingBlobs";
